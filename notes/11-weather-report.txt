@@ -1,0 +1,5 @@
+Weather Report
+- Sunny with a chance of rain.
+- High of 24, low of 15.
+- Light winds from the west.
+- Bring a jacket for the evening.

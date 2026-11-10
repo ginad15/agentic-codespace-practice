@@ -1,0 +1,5 @@
+Meeting Notes
+- Ship the beta by Friday.
+- Sam owns the login page.
+- Split the budget review into two calls.
+- Next check-in on Tuesday.

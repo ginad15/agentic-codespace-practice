@@ -1,0 +1,5 @@
+Coding Tips
+- Commit early, commit often.
+- Name things clearly.
+- Write the test before the fix.
+- Comment why, not what.

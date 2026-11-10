@@ -1,0 +1,5 @@
+Project Ideas
+- A robot that waters the plants.
+- An app that finds quiet cafes.
+- A clock that shows the weather.
+- A diary that writes back.
